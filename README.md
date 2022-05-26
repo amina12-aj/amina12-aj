@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact: **I tell my friends that I would probably become a comedian some day.**
 
+- You can reach me @bakareaminata@gmail.com
+- Check out my portfolio @ https://github.com/amina12-aj
 
 
 <h3 align="left">Languages and Tools:</h3>
