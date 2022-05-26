@@ -1,11 +1,11 @@
 <h1 align="center">Hiii 👋, I'm Amina Bakare</h1>
-<h3 align="center">An ardent problem solver, who is trying to figure things out but still finds the tech field awe-mazing.</h3>
+<h3 align="center">An ardent problem solver who is trying to figure things out, but still finds the tech field awe-mazing.</h3>
 
 - 🔭 I’m currently working on an **E-commerce website**
 
 - 🌱 I’m currently learning **C#**
 
-- ⚡ Fun fact **I tell my friends that I would probably become a comedian some day.**
+- ⚡ Fun fact: **I tell my friends that I would probably become a comedian some day.**
 
 
 
