@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an **E-commerce website**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, Algorithm and Data Structure**
 
 - ⚡ Fun fact: **I tell my friends that I would probably become a comedian some day and I have the cutest smile.**
 
