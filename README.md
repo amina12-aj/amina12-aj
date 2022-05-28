@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, Algorithm and Data Structure**
 
-- ⚡ Fun fact: **I tell my friends that I would probably become a comedian some day and I have the cutest smile.**
+- ⚡ Fun fact: **I think I probably would have being a comedian in an alternate universe and I have the cutest smile.**
 
 - You can reach me @bakareaminata@gmail.com
 - Check out my portfolio @https://github.com/amina12-aj
