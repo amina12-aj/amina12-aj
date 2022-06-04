@@ -1,4 +1,4 @@
-<h1 align="center">Hiii 👋, I'm Amina Bakare</h1>
+<h1 align="center">Hiii 👋, I'm Ajoke Amina Bakare</h1>
 <h3 align="center">An ardent problem solver who finds the tech field awe-mazing. Although I would say the only thing going well for me is my PATIENCE</h3>
 
 - 🔭 I’m currently working on an **E-commerce website**
