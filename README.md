@@ -1,11 +1,10 @@
 <h1 align="center">Hiii 👋, I'm Ajoke Amina Bakare</h1>
 <h3 align="center">An ardent problem solver who finds the tech field awe-mazing. Although I would say the only thing going well for me is my PATIENCE</h3>
 
-- 🔭 I’m currently working on a **Grocery Shopping API**
 
 - 🌱 I’m currently learning **Algorithm and Data Structure**
 
-- ⚡ Fun fact: **I think I probably would have being a comedian in an alternate universe and I have the cutest smile.**
+- ⚡ Fun fact: **I think I probably would have being a comedian with the cutest smile in an alternate universe**
 
 - You can reach me @bakareaminata@gmail.com
 - Check out my portfolio @https://github.com/amina12-aj
